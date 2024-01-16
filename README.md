@@ -2,7 +2,7 @@
 
 以太坊（ETH）靓号生成器，利用 `gpu` 进行加速。代码开源，安全可靠 🔥
 
-<img width="100%" src="https://github.com/sponsord/profanity-ether/blob/master/screenshot/demo.png?raw=true"/>
+<img width="100%" src="/screenshot/demo.png?raw=true"/>
 
 > Fbi Warning 1: 该程序仅用于学习交流，请勿用于非法用途。
 
@@ -132,7 +132,7 @@ Fbi Warning:
 
 2. 根据服务器配置搜索驱动，然后下载：
 
-<img width="100%" src="https://github.com/GG4mida/profanity-ether/blob/master/screenshot/nvidia.png?raw=true"/>
+<img width="100%" src="/screenshot/nvidia.png?raw=true"/>
 
 3. 显卡驱动安装完毕后，打开设备管理器，可以查看到显卡信息（如果不安装驱动，是看不到这个的）：
 
@@ -148,7 +148,7 @@ Fbi Warning:
 
 3. 下载后，打开安装程序，安装以下截图所示的组件：
 
-<img width="100%" src="https://github.com/sponsord/profanity-ether/blob/master/screenshot/vs1.png?raw=true"/>
+<img width="100%" src="/screenshot/vs1.png?raw=true"/>
 
 4. 以上软件安装完成后，就可以直接双击源码目录下面的 `profanity.sln`，打开项目进行开发了。
 
@@ -164,7 +164,7 @@ Fbi Warning:
 
 本程序使用阿里云配置：`GPU 计算型 8 vCPU 32 GiB x 1 * NVIDIA V100`。运行速度在 `6亿 H/s` 左右：
 
-<img width="100%" src="https://github.com/sponsord/profanity-ether/blob/master/screenshot/demo.png?raw=true"/>
+<img width="100%" src="/screenshot/demo.png?raw=true"/>
 
 > 本程序除了在开发机（一台老旧的 Mac），以及上述 `NVIDIA v100` 显卡上经过测试外，未在其它设备上进行速度测试。
 
