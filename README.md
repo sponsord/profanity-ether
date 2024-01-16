@@ -132,11 +132,11 @@ Fbi Warning:
 
 2. 根据服务器配置搜索驱动，然后下载：
 
-<img width="100%" src="/screenshot/nvidia.png?raw=true"/>
+<img width="100%" src="//nvidia.png?raw=true"/>
 
 3. 显卡驱动安装完毕后，打开设备管理器，可以查看到显卡信息（如果不安装驱动，是看不到这个的）：
 
-<img width="100%" src="https://github.com/sponsord/profanity-ether/blob/master/screenshot/gpu.png?raw=true"/>
+<img width="100%" src="/screenshot/gpu.png?raw=true"/>
 
 ### 安装 `visual studio`
 
@@ -144,7 +144,7 @@ Fbi Warning:
 
 2. 选择以下版本进行下载：
 
-<img width="100%" src="https://github.com/sponsord/profanity-ether/blob/master/screenshot/vs.png?raw=true"/>
+<img width="100%" src="/screenshot/vs.png?raw=true"/>
 
 3. 下载后，打开安装程序，安装以下截图所示的组件：
 
