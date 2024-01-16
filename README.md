@@ -1,4 +1,9 @@
 # Ether Profanity
+![](https://img.shields.io/github/actions/workflow/status/sponsord/profanity-tron/release.yml)
+![](https://img.shields.io/badge/baseon-gpu-yellowgreen.svg)
+![](https://img.shields.io/badge/language-c,c++-orange.svg)
+![](https://img.shields.io/badge/platform-windows,linux-yellow.svg)
+![](https://img.shields.io/badge/telegram-@sponsord2022-blue.svg)
 
 以太坊（ETH）靓号生成器，利用 `gpu` 进行加速。代码开源，安全可靠 🔥
 
