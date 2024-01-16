@@ -5,7 +5,7 @@
 ![](https://img.shields.io/badge/platform-windows,linux-yellow.svg)
 ![](https://img.shields.io/badge/telegram-@sponsord2022-blue.svg)
 
-以太坊（ETH）靓号生成器，利用 `gpu` 进行加速。代码开源，安全可靠 🔥
+以太坊（ETH）靓号生成器，支持大小写匹配，利用 `gpu` 进行加速。代码开源，安全可靠 🔥
 
 <img width="100%" src="/screenshot/demo.png?raw=true"/>
 
