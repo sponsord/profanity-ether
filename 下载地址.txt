@@ -2,5 +2,5 @@
 https://mega.nz/file/smNj2RJI#5Y-HVb24PH7GWT7l6nNvu3UW8fy9siG94DeOpOB2j4w
 
 下载地址2：
-https://gitee.com/profanity-tron/tron-gpu/releases/download/v2.0/windows-ETH.zip
+https://gitee.com/eth_gpu/profanity-tron/releases/download/windows-eth/windows-ETH.zip
 
