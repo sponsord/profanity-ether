@@ -1,6 +1,3 @@
 下载地址1：
-https://mega.nz/file/smNj2RJI#5Y-HVb24PH7GWT7l6nNvu3UW8fy9siG94DeOpOB2j4w
-
-下载地址2：
-https://gitee.com/eth_gpu/profanity-tron/releases/download/windows-eth/windows-ETH.zip
+https://pub-160ee302c8b44e47b2913c379265d117.r2.dev/github/windows-ETH.zip
 
